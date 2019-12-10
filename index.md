@@ -5,7 +5,7 @@ layout: default
 # The Mininet-WiFi Book
 
 ### Portuguese Edition
-![Octocat](https://github.com/mininet-wifi/book/blob/master/assets/img/book-pt.png?raw=true)
+![Octocat](https://github.com/mininet-wifi/book/blob/master/assets/images/book-pt.png?raw=true)
 
 #### Available at:
 - [Clube de Autores](https://clubedeautores.com.br/backstage/my_books/282354)
@@ -13,7 +13,7 @@ layout: default
 - [Amazon e-book](https://www.amazon.com.br/dp/B07T372QQH)
 
 ### English Edition
-![Octocat](https://github.com/mininet-wifi/book/blob/master/assets/img/book-en.png?raw=true)
+![Octocat](https://github.com/mininet-wifi/book/blob/master/assets/images/book-en.png?raw=true)
 
 #### Available at:
 - [Clube de Autores](https://clubedeautores.com.br/backstage/my_books/307142)
